@@ -26,3 +26,5 @@ Run </br>
 ```
 python inference.py
 ```
+
+Reference: https://github.com/musikalkemist/pytorchforaudio
