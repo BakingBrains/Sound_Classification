@@ -16,7 +16,7 @@ python dataset.py
 This will give the number of items in the dataset</br>
 
 - Then run modelcnn.py to know about the structure of the CNN model.</br>
-- Then start the training (change the path to the dataset)</br>
+- Then start the training. (change the path to the dataset)</br>
 ```
 python train.py
 ```
